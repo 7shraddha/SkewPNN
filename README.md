@@ -1,5 +1,5 @@
 # Skew Probabilistic Neural Network for handling imbalance data classification
-## Proposed Approaches: Skew normal based Probabilistic Neural Network (SkewPNN) and Bat Algorithm optimization for Skew normal based Probabilistic Neural Network (BA-SkewPNN) 
+ 
 ### Introduction
 The Probabilistic Neural Network (PNN) traditionally uses Gaussian kernel density estimation. However, this may not capture real-world complexities. This README file provides an overview of our approach, its implementation in MATLAB, and instructions for running the code.
 
