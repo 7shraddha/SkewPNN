@@ -1,4 +1,4 @@
-# Skew Probabilistic Neural Network for handling imbalance data classification
+# Skew Probabilistic Neural Networks for Learning from Imbalanced Data
  
 ### Introduction
 The Probabilistic Neural Network (PNN) traditionally uses Gaussian kernel density estimation. However, this may not capture real-world complexities. This README file provides an overview of our approach, its implementation in MATLAB, and instructions for running the code.
@@ -16,9 +16,13 @@ The MATLAB code for our proposed approaches is organized as follows:
 
 2. classification.m: This script contains the implementation of the SkewPNN and BA-SkewPNN models. It takes the input data and applies the SkewPNN to perform classification task. 
 
-3. Other necessory files are also included. 
+3. Other necessary files are also included. 
 
 ### Citation
-If you find our proposed approach or the provided code useful in your research work, please consider citing our paper:
-
-Will be added soon
+@article{naik2023skew,
+  title={Skew Probabilistic Neural Networks for Learning from Imbalanced Data},
+  author={Naik, Shraddha M and Chakraborty, Tanujit and Hadid, Abdenour and Chakraborty, Bibhas},
+  journal={arXiv preprint arXiv:2312.05878},
+  year={2023},
+  link={https://arxiv.org/abs/2312.05878}
+}
